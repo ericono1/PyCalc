@@ -4,7 +4,7 @@ A simple calculator made using `tkinter`.
 
 ## Features : 
 
-#### Version1.0
+#### Version1.1
 
 * Cross-platform
 * easy to use
@@ -55,10 +55,6 @@ Feel free to contribute
 3. Commit your changes (`git commit -am 'Added <xyz> feature'`)
 4. Push to the branch (`git push origin my-new-awesome-feature`)
 5. Create new Pull Request
-
-## License :
-
-MIT License [http://prodicus.mit-license.org/](http://prodicus.mit-license.org/) &copy; Tasdik Rahman
 
 ## Donation
 
